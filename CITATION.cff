@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bradley"
+  given-names: "Jacob"
+  orcid: ""
+- family-names: "Else"
+  given-names: "Anyone"
+  orcid: ""
+title: "TrollTreasure"
+version: 0.0.1
+doi: not.yet
+date-released: 2022-11-07
+url: "https://github.com/cobrbra/TrollTreasure"
