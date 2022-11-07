@@ -2,7 +2,7 @@
 
 This is Troll Treasure! 
 
-Run troll treasure from python of from the command line.
+Run troll treasure from python or from the command line.
 
 ## Installation
 
@@ -22,7 +22,7 @@ Run troll treasure from python of from the command line.
 
  ## Dungeon files
 
- To play the game you need a dungeon specification file. A few samples are provided in the [`dungeons/`]() folder available on GitHub (if you have cloned the repository these will be available directly, otherwise follow the link and download a sample dungeon file).
+ To play the game you need a dungeon specification file. A few samples are provided in the [`dungeons/`](https://github.com/cobrbra/TrollTreasure/tree/main/dungeons) folder available on GitHub (if you have cloned the repository these will be available directly, otherwise follow the link and download a sample dungeon file).
 
  ## Playing the game 
  Now let's play!
